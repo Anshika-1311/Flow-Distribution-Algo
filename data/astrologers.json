@@ -1,0 +1,4 @@
+[
+  { "id": "a1", "name": "Astro1", "isTop": false, "weight": 1, "currentConnections": 0 },
+  { "id": "a2", "name": "Astro2", "isTop": false, "weight": 1, "currentConnections": 0 }
+]

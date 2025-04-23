@@ -1,0 +1,27 @@
+{
+  "name": "flow-distribution-backend",
+  "version": "1.0.0",
+  "description": "Flow distribution system for astrologer-user matching",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "heap-js": "^2.6.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.10",
+    "supertest": "^7.1.0"
+  }
+}
